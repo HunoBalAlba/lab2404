@@ -14,7 +14,7 @@ def cert() -> rx.Component:
         rx.heading("Certificados", size="8"),
         rx.text("Certificados"),
         rx.text(
-            "En esta pagina encontrara Certificados de estudiantes    simples mortales",
+            "En esta pagina encontrara Certificados de estudiantes",
             #rx.code("{your_app}/pages/ins.py"),
         ),
     )
